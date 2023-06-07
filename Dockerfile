@@ -18,5 +18,5 @@ RUN npm install --omit-dev
 COPY . .
 
 
-ENTRYPOINT ["node", "server1.js"]
+ENTRYPOINT ["node", "server2.js"]
 
